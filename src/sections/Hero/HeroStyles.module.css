@@ -53,6 +53,8 @@
   }
 }
 
+
+
 .colorModeContainer {
   position: relative;
 }
@@ -70,6 +72,21 @@
 .description {
   max-width: 24ch;
 }
+
+@media (width <= 800px) {
+  .description {
+    max-width: 24ch;
+    margin-left:80px
+  }
+}
+
+@media (width <= 425px) {
+  .description {
+    max-width: 20ch;
+    margin-left:50px
+  }
+}
+
 
 .info {
   display: flex;

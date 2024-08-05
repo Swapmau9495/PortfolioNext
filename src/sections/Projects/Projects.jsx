@@ -1,8 +1,5 @@
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
 import newsicon from '../../assets/newsicon.ico';
-import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
 import flightgo from '../../assets/flightgo.webp'
 
