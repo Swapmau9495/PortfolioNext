@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.dbc736bd.css",
+    "main.js": "/PortfolioReact/static/js/main.76994586.js",
+    "static/media/DesignSwapnil.png": "/PortfolioReact/static/media/DesignSwapnil.04974c21cd9648170b5c.png",
+    "static/media/newsicon.ico": "/PortfolioReact/static/media/newsicon.ace1b4be5e725b7a23ae.ico",
+    "static/media/flightgo.webp": "/PortfolioReact/static/media/flightgo.109c37d85cf44100cac6.webp",
+    "static/media/sun.svg": "/PortfolioReact/static/media/sun.a986458e5595b4237f08ee312d301ff3.svg",
+    "static/media/github-dark.svg": "/PortfolioReact/static/media/github-dark.dd326b9d1397ddd12c766006b60b0a97.svg",
+    "static/media/github-light.svg": "/PortfolioReact/static/media/github-light.f4a3dde7429c7db2d098ebfdb4175701.svg",
+    "static/media/moon.svg": "/PortfolioReact/static/media/moon.e8ceccc7130ff6ac43ef85eedc8c3005.svg",
+    "static/media/linkedin-dark.svg": "/PortfolioReact/static/media/linkedin-dark.4849f84a7e76fde3e7508ef828cf6d7b.svg",
+    "static/media/linkedin-light.svg": "/PortfolioReact/static/media/linkedin-light.f52c806dae34fc7afae25af380bf8c66.svg",
+    "index.html": "/PortfolioReact/index.html",
+    "main.dbc736bd.css.map": "/PortfolioReact/static/css/main.dbc736bd.css.map",
+    "main.76994586.js.map": "/PortfolioReact/static/js/main.76994586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc736bd.css",
+    "static/js/main.76994586.js"
+  ]
+}
